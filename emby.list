@@ -198,12 +198,11 @@ DOMAIN,us.sfo-01.emby.cyou
 DOMAIN,pemby.ednovas.org
 
 # > PiliPili Ultra
-DOMAIN,push.pilipiliultra.com
-DOMAIN,emby.pilipiliultra.top
-DOMAIN,emby.pilipiliultra.com
-DOMAIN,pilipili.mikuu.link
+DOMAIN-SUFFIX,pilipiliultra.top
+DOMAIN-SUFFIX,pilipiliultra.com
+DOMAIN-SUFFIX,mikuu.link
 DOMAIN,146.56.36.1
-DOMAIN,pili.nvidia.rip
+DOMAIN-SUFFIX,nvidia.rip
 
 # > acaEmby
 DOMAIN,emby.aca.best
